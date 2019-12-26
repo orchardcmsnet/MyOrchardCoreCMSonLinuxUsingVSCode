@@ -218,4 +218,6 @@ Login with your admin credentials.
 
 With ASP.NET and Orchard Core CMS you can setup the development environment and create an application in minutes on Linux, macOS, or Windows machine using VS Code. Best of all it’s all free.
 
+## GitHub
 
+The complete source code is located [here](https://github.com/orchardcmsnet/MyOrchardCoreCMSonLinuxUsingVSCode).
