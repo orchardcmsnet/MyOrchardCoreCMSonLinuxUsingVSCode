@@ -4,6 +4,7 @@ Developing Orchard Core CMS Applications on Linux using VS Code
 
 ## YouTube Video
 
+[![OrchardSkillsYouTubeThumbNailLinux](https://user-images.githubusercontent.com/58791170/75269015-80cf7c80-57b5-11ea-9546-a92acc201fea.png)](https://youtu.be/EySZCCwSZ9s)
 
 
 ## PDF Version of the Documentation
